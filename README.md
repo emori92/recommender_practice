@@ -1,4 +1,4 @@
-## 推薦システムの練習
+ 推薦システムの練習
 このリポジトリは、推薦システムについて勉強したこと、基礎的なアルゴリズムをまとめています。
 
 ## 参考
@@ -8,6 +8,6 @@
 - [Surprise](https://github.com/NicolasHug/Surprise)
 
 ## 内容
-- ユーザーベース協調フィルタリング
-- Non-Negative Matrix Factorization (scikit-learn)
-- Surprise (Getting Start!)
+- [ユーザーベース協調フィルタリング](https://github.com/emori92/recommender_practice/blob/master/1_movie_memory_base_recommender.ipynb)
+- [Non-Negative Matrix Factorization (scikit-learn)](https://github.com/emori92/recommender_practice/blob/master/2_recommender_practice.ipynb)
+- [Surprise (Getting Start!)](https://github.com/emori92/recommender_practice/blob/master/3_surprise_tutorial.ipynb)
